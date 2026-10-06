@@ -1,0 +1,3 @@
+# l'exe se telecharge dans les Releases
+*.exe
+__pycache__/
